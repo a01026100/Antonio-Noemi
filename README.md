@@ -1,6 +1,5 @@
 # Antonio Noemi – Ciencia de Datos y Análisis
 
-## 🎯 Hook
 
 > "Convierto datos complejos en decisiones estratégicas que impulsan resultados reales."
 > **Antonio Noemi**, apasionado por revelar patrones ocultos y optimizar procesos a través de la ciencia de datos.
@@ -8,7 +7,14 @@
 ## 🚀 Journey
 
 * **Formación**: Estudiante de Ingeniería en Ciencia de Datos y Matemáticas (6.º semestre, Tecnológico de Monterrey).
+* **Financial Operations and Data Specialist** PagaPhone SmartPay S.A. de C.V. - Fintech and commuication services*
 * **Proyectos académicos**: Análisis Topológico, modelos predictivos de ingreso, modelos predictivos en series temporales
+
+# Herramientas
+* Python
+* R
+* C++
+* Matlab
 
 ## 🛠 Competencias
 
@@ -26,7 +32,7 @@
 
 Convertir la ciencia de datos en una herramienta esencial para la toma de decisiones empresariales, aportando claridad y valor en cada paso.
 
-## 📂 Proyectos
+## 📂 Proyectos Académicos
 
 * [[🔗 Topological Data Analysis de Criptomonedas](https://github.com/tu-usuario/crypto-tda)](https://github.com/a01026100/TDA-criptomonedas)
 * [[🔗 Modelo Multiplicativo de Series Temporales (R)](https://github.com/tu-usuario/serie-temporal-R)](https://github.com/a01026100/Multivariados---Calidad-del-aire/blob/main/README.md)
