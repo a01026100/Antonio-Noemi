@@ -34,7 +34,8 @@ Convertir la ciencia de datos en una herramienta esencial para la toma de decisi
 
 ## 📂 Proyectos Académicos
 
-* [[🔗 Topological Data Analysis de Criptomonedas](https://github.com/tu-usuario/crypto-tda)](https://github.com/a01026100/TDA-criptomonedas)
-* [[🔗 Modelo Multiplicativo de Series Temporales (R)](https://github.com/tu-usuario/serie-temporal-R)](https://github.com/a01026100/Multivariados---Calidad-del-aire/blob/main/README.md)
-* [[🔗 Reto de Análisis de Ciencia de Datos](https://github.com/tu-usuario/reto-analisis-datos)](https://github.com/a01026100/Modelo-de-clasificaci-n)
+* [[🔗 Topological Data Analysis de Criptomonedas]](https://github.com/a01026100/TDA-criptomonedas)
+* [[🔗 Modelo Multiplicativo de Series Temporales (R)]](https://github.com/a01026100/Multivariados---Calidad-del-aire/blob/main/README.md)
+* [[🔗 Reto de Análisis de Ciencia de Datos]](https://github.com/a01026100/Modelo-de-clasificaci-n)
+* [[🔗 TDA futbol 11 ideal ]](https://github.com/a01026100/TDA-11-ideal)
 
